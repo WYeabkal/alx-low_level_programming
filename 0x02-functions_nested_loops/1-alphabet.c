@@ -4,7 +4,7 @@
 /**
  * print_alphabet - prints lowercase alphabet a-z
  *
- * Return: Always 0.
+ * Return: Void.
 */
 
 void print_alphabet(void);
@@ -18,5 +18,5 @@ void print_alphabet(void);
 		sc++;
 	}
 
-	_putchar('/n');
+	_putchar('\n');
 }
