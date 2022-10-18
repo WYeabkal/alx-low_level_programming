@@ -12,21 +12,9 @@ int _islower(int c)
 
 	if (ch >= 97 && ch <= 122)
 	{
-		_putchar(1 + '0');
+		return (1);
 	}
-	else if (ch >= 65 && ch <= 90)
-	{
-		_putchar(0 + '0');
-	}
-	else
-	{
-		_putchar('N');
-		_putchar('O');
-		_putchar('T');
-		_putchar('_');
-		_putchar('C');
-		_putchar('H');
-		_putchar('A');
-		_putchar('R');
-	}
+
+	return (0);
+
 }
