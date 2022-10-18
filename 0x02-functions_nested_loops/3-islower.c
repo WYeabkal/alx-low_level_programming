@@ -2,7 +2,9 @@
 
 /**
  * _islower - checks whether char is lower or uppercase
- * @c - parameter of function.
+ *
+ * @c: parameter of unction to store value.
+ *
  * Return: void.
 */
 
