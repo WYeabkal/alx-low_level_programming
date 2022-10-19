@@ -3,14 +3,14 @@
 /**
 * print_last_digit - outputs last digits of number.
 * @int: parameter.
-*
+* @n: parameter.
 *
 * Return: always 0.
 */
 
-int print_last_digit(int)
+int print_last_digit(int n)
 {
-	int n, x;
+	int x;
 
 	if (n < 0)
 	{
