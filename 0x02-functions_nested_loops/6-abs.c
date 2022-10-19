@@ -2,6 +2,7 @@
 
 /**
 * _abs - computes the absolute value of a num.
+* @n: parameter of funtion.
 * @int: parameter.
 * Return: Always 0.
 */
